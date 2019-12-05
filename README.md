@@ -1,3 +1,3 @@
 # The C Book - C
 
-https://github.com/HadesXD/cBook-c.git
+I'm reading the C book while doing the challenges.
